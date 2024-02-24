@@ -20,3 +20,6 @@ Grupo: Leonardo Luiz Juliana de Lima Rafael Assis Paulo Paixão Vanderlandio da 
 
 Link do projeto:
 https://colab.research.google.com/drive/1OyuUBwjF9zrqrcKO84wT-RnTaEHUfJwd#scrollTo=rDfSt7Y5cgX4
+
+![Logo](https://github.com/Leonardo2236/Projeto_COVID_AdaTech/blob/main/projeto_covid.JPG)
+
